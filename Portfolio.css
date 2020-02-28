@@ -1,0 +1,57 @@
+* {
+
+}
+#header_box {
+    border: 1px solid blue;
+    height: 20%;
+    width: 1024px;
+    border-radius: 25px;
+    padding: 15px;
+    font-size: 36px;
+    font-variant-east-asian: normal;
+}
+.container {
+    background-image: url(Ocean_overview.jpg);
+    background-size: cover;
+}
+.side_navigation_box{
+    border: 1px solid red;
+    width: 1024px;
+    
+}
+.top_photo{
+    border: 1px solid green;
+    width: 600px;
+    height: 300px;
+}
+.large{
+    width: 250px;
+    height: 300px;
+}  
+.small{
+    width: 60px;
+    height: 70px;
+}
+.toosmall{
+    width: 60px;
+    height: 70px;
+}
+.main_water {
+    color: #1435f0;
+    font-display:bold;
+    vertical-align: top;
+    font-size: 24px;
+    }
+.buttons {
+    width:100px;
+    height:100px;
+    background-color: green;
+    border-radius: 25px;
+    color: white;
+    font-size: 24px;
+
+}
+    
+
+
+}
